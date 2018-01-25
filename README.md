@@ -22,3 +22,7 @@ The application stores connection info in a JSON file, app_config.json. The key-
 
 Currently, the values are set to empty strings. You'll need to enter appropriate values for your environment.
 
+#Deployment
+
+Application is now running on AWS , follow the link : http://gsgsignup-env.3gzwkjnthw.us-west-2.elasticbeanstalk.com/
+
